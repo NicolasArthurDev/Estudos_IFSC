@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class a6l4 {
   public static void main(String[] args) {
 
     System.out.println("\n\nMETROS PARA CENTIMETROS\n\n");
