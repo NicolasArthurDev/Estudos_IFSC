@@ -1,3 +1,5 @@
+package Estudos.Estudos_IFSC.src.main.java.Lista_4;
+
 import java.util.Scanner;
 
 public class a1l4 {
