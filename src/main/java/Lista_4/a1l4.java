@@ -1,4 +1,4 @@
-package Estudos.Estudos_IFSC.src.main.java.Lista_4;
+package Estudos_IFSC.src.main.java.Lista_4;
 
 import java.util.Scanner;
 
